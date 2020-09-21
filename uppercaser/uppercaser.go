@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func uuu(s string) string {
+func Uuu(s string) string {
 	fmt.Printf("Got {%v}", s)
 	return strings.ToUpper(s)
 }
